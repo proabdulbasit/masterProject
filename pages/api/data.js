@@ -31,7 +31,7 @@ export default function handler(req, res) {
       shares: 0,
       views: 0,
       date: "2021-10-01T00:00:00.000Z",
-    },
+    },    
     {
       id: 3,
       title: "Family",
