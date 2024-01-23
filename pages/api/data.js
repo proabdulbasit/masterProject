@@ -31,7 +31,7 @@ export default function handler(req, res) {
       shares: 0,
       views: 0,
       date: "2021-10-01T00:00:00.000Z",
-    },
+    },    
     {
       id: 3,
       title: "Family",
@@ -81,6 +81,21 @@ export default function handler(req, res) {
     {
       id: 6,
       title: "Chenzoku",
+      description:
+        "An inspirational nft animation website built with gsap, using druk as their primary font.",
+      video:
+        "https://video.godly.website/video/upload/w_2560/q_100/godly/recordings/pyaqvjjimo6vixa0mdab.webm",
+      link: "https://chainzoku.io/?ref=godly",
+      tags: ["nft", "gsap", "druk"],
+      likes: 0,
+      comments: 0,
+      shares: 0,
+      views: 0,
+      date: "2021-10-01T00:00:00.000Z",
+    },
+    {
+      id: 7,
+      title: "Testing",
       description:
         "An inspirational nft animation website built with gsap, using druk as their primary font.",
       video:
